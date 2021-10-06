@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alecfrey
+- 👀 I’m interested in all types of advancements to technology, including through hardware and software innovations.
+- 🌱 I’m currently learning Data Structures in COMS 228
+- 📫 How to reach me - alecfrey.me
